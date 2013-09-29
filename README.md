@@ -77,3 +77,57 @@ solidy for bricks
 |height |6 |hauteur de la balle en pixels|
 |top |50 |position top de la balle|
 |left |50 |position left de la balle|
+
+
+###Déclaration of the first level
+
+The application consumes xml format configuration 
+
+```html
+<head level="interrogation">
+```
+you use the level attribute to define the xml stored in xml folder to be loaded on start
+
+
+###XML Configuration
+
+The root tag is level.
+The grid tag define the row of brick to draw
+The nextLevels contains the name of the next Level ficle configuration
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<grid>
+
+
+<row id="23">
+ <brick id="3"></brick>
+</row>
+
+</grid>
+<nextlevels>
+<nextlevel>2</nextlevel>
+</nextlevels>
+</level>
+
+```
+
+####Draw a full row of brick
+
+```xml
+<row id="0" full="true"></row>
+```
+
+####Draw single brick
+Use visibility to decalre if the brick is visble or not.
+Use solidity to define how many time you must touch the brick before destroying it.
+
+```xml
+<row id="0">
+<brick id="0" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+</row>
+```
+
+
