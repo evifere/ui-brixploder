@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level><grid><row id="0"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="1"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="2"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="3"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="4"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="5"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="6"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="7"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="8"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="9"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="false" solidity="1" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="false" solidity="1" ></brick>
+<brick id="9" visible="false" solidity="1" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="10"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="false" solidity="1" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="false" solidity="1" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="11"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="false" solidity="1" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="false" solidity="1" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="12"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="false" solidity="1" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="false" solidity="1" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="13"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="false" solidity="1" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="14"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="false" solidity="1" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="15"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="false" solidity="1" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="16"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="false" solidity="1" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="17"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="false" solidity="1" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="18"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="19"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="20"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="21"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="22"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="23"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="false" solidity="1" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="24"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="25"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="26"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="27"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="28"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="29"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row>
+<row id="30"><brick id="0" visible="true" solidity="0" ></brick>
+<brick id="1" visible="true" solidity="0" ></brick>
+<brick id="2" visible="true" solidity="0" ></brick>
+<brick id="3" visible="true" solidity="0" ></brick>
+<brick id="4" visible="true" solidity="0" ></brick>
+<brick id="5" visible="true" solidity="0" ></brick>
+<brick id="6" visible="true" solidity="0" ></brick>
+<brick id="7" visible="true" solidity="0" ></brick>
+<brick id="8" visible="true" solidity="0" ></brick>
+<brick id="9" visible="true" solidity="0" ></brick>
+<brick id="10" visible="true" solidity="0" ></brick>
+<brick id="11" visible="true" solidity="0" ></brick>
+<brick id="12" visible="true" solidity="0" ></brick>
+<brick id="13" visible="true" solidity="0" ></brick>
+<brick id="14" visible="true" solidity="0" ></brick>
+</row></grid>
+<nextlevels><nextlevel>3</nextlevel></nextlevels>
+</level>

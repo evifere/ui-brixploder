@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<grid>
+<row id="0" full="true"></row>
+<row id="2" full="true"></row>
+<row id="6" full="true"></row>
+
+<row id="9" full="true"></row>
+
+<row id="13" full="true"></row>
+
+<row id="15" full="true"></row>
+
+<row id="17" full="true"></row>
+<row id="19" full="true"></row>
+
+<row id="21" full="true"></row>
+
+<row id="23" full="true"></row>
+<row id="24" full="true" solidity="1"></row>
+<row id="30" full="true"></row>
+
+</grid>
+<nextlevels>
+<nextlevel>3</nextlevel>
+</nextlevels>
+</level>
+

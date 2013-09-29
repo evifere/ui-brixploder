@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<grid>
+
+<row id="0" full="true"></row>
+<row id="1" full="true"></row>
+<row id="2" full="true"></row>
+<row id="3" full="true"></row>
+<row id="4" full="true"></row>
+<row id="5" full="true"></row>
+<row id="6" full="true"></row>
+<row id="7" full="true"></row>
+<row id="8" full="true"></row>
+<row id="9" full="true"></row>
+<row id="10" full="true"></row>
+<row id="11" full="true"></row>
+<row id="12" full="true"></row>
+<row id="13" full="true"></row>
+<row id="14" full="true"></row>
+<row id="15" full="true"></row>
+<row id="16" full="true"></row>
+<row id="17" full="true"></row>
+<row id="18" full="true"></row>
+<row id="19" full="true"></row>
+<row id="20" full="true"></row>
+<row id="21" full="true"></row>
+<row id="22" full="true"></row>
+<row id="23" full="true"></row>
+<row id="24" full="true"></row>
+<row id="25" full="true"></row>
+<row id="26" full="true"></row>
+<row id="27" full="true"></row>
+<row id="28" full="true"></row>
+<row id="29" full="true"></row>
+<row id="30" full="true"></row>
+</grid>
+<nextlevels>
+<nextlevel>2</nextlevel>
+</nextlevels>
+</level>
+

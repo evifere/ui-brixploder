@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<grid>
+<row id="0" full="true"></row>
+<row id="1" full="true"></row>
+<row id="2" full="true"></row>
+<row id="3">
+ <brick id="4"></brick>
+ <brick id="5"></brick>
+ <brick id="6"></brick>
+ <brick id="9"></brick> 
+
+</row>
+<row id="4" full="true"></row>
+<row id="5" full="true"></row>
+
+
+<row id="15" full="true"></row>
+
+
+
+
+<row id="19">
+ <brick id="2"></brick>
+</row>
+
+<row id="20" full="true" solidity="1"></row>
+<row id="23">
+ <brick id="3"></brick>
+</row>
+
+</grid>
+<nextlevels>
+<nextlevel>2</nextlevel>
+</nextlevels>
+</level>
+

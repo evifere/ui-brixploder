@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+<grid>
+
+
+<row id="23">
+ <brick id="3"></brick>
+</row>
+
+</grid>
+<nextlevels>
+<nextlevel>2</nextlevel>
+</nextlevels>
+</level>
+

@@ -1,0 +1,9 @@
+ui-brixploder project is a brick breaker game
+
+it is a full jQuery UI widget project.
+
+The first version has the following features:
+
+level management with XML file.
+collision management for brick and bar collision.
+solidy for bricks
