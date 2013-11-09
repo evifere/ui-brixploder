@@ -1,6 +1,6 @@
 ###Introduction
 
-ui-brixploder project is a brick breaker game
+ui-brixploder project is a brick breaker game - Online Demo here http://evifere.lescigales.org/ui-brixploder/
 
 it is a full jQuery UI widget project.
 
